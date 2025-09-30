@@ -1,2 +1,24 @@
 /venv
 /clean_data.csv
+
+data/
+models/
+
+.dvc/cache/
+.dvc/tmp/
+
+########################################################################################
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
